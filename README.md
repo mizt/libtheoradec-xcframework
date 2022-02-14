@@ -3,7 +3,6 @@
 ```
 git clone https://github.com/xiph/theora.git
 cd ./theora
-git checkout theora-multithread
 # git checkout 02174f9
 ```
 #### Build
